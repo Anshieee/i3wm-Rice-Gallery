@@ -1,7 +1,7 @@
 # ✨ i3wm Rice Gallery ✨
 This repository contains all the customizations I have done till now to my i3 config
 
-## Red and Grey (my personal favourite)
+## Red and Grey (my favourite)
 ### Took 7 hours and 37 mins to make
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red1.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red2.png">
