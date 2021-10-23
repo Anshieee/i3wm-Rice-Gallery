@@ -25,10 +25,12 @@ sh scripts/emoji.sh
 #alacritty
 mv ~/.config/alacritty/alacritty.yml alacritty.yml.bak
 cp config/alacritty.yml ~/.config/alacritty/alacritty.yml
+mkdir ~/.config/alacritty
 
 #kitty
 mv ~/.config/kitty/kitty.conf kitty.conf.bak
 cp config/kitty.conf ~/.config/kitty/kitty.conf
+mkdir ~/.config/kitty
 
 #i3-config
 mv ~/.config/i3/config config.bak
