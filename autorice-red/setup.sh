@@ -1,6 +1,6 @@
 #install stuff
 echo "Installing prerequisites"
-pacman -S vim feh alacritty kitty
+sudo pacman -S vim feh alacritty kitty
 
 #Install yay
 echo "Installing yay (AUR Helper)"
@@ -13,6 +13,7 @@ makepkg -si
 #install polybar
 echo "Installing polybar"
 yay -S polybar
+yay -S pywal-git
 
 
 #polybar
