@@ -4,34 +4,45 @@ This repository contains all the customizations I have done till now to my i3 co
 ## Red and Grey (my favourite)
 ### Took 7 hours and 37 mins to make
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red1.png">
+<details><summary>All Screenshots</summary><br/>
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red2.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red3.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red4.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red5.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red6.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/red/red7.png">
+</details>
 
 ## Pink (Looks the prettiest)
 ### Took 15 hours to make
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/pink/1.png">
+<details><summary>All Screenshots</summary><br/>
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/pink/2.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/pink/3.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/pink/4.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/pink/5.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/pink/arch.png">
+</details>
 
 ## Gruvbox (Still my favourite pallete)
 ### Took around 12 hours to make
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/gruvbox/12.png">
+<details><summary>All Screenshots</summary><br/>
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/gruvbox/13.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/gruvbox/14.png">
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/gruvbox/15.png">
-
+</details>
 
 ## Red (my first rice)
 ### I dont rememeber how long it took me
 <img src="">
+<details><summary>All Screenshots</summary><br/>
+  <img src="">
+</details>
 
 ## Mono
 ### dont remember how long this took either
 <img src="">
+<details><summary>All Screenshots</summary><br/>
+  <img src="">
+</details>
