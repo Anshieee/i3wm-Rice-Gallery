@@ -28,4 +28,10 @@ This repository contains all the customizations I have done till now to my i3 co
 <img src="https://raw.githubusercontent.com/RiotisWeird/i3wm-Rice-Gallery/main/gruvbox/15.png">
 
 
-# I deleted my first rice by mistake lol. it was red btw
+## Red (my first rice)
+### I dont rememeber how long it took me
+<img src="">
+
+## Mono
+### dont remember how long this took either
+<img src="">
