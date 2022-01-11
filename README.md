@@ -41,7 +41,7 @@ This repository contains all the customizations I have done till now to my i3 co
 </details>
 
 ## Mono
-### dont remember how long this took either
+  ### Made an autorice script for it, get it <a href="https://github.com/Anshieee/i3-mono/">here</a>
 <img src="">
 <h1><details><summary>All Screenshots</summary><br/>
   <img src="">
